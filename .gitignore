@@ -1,0 +1,39 @@
+# R/RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# R Markdown/Quarto
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+.quarto/
+
+# Auth tokens commonly created by httr
+.httr-oauth
+.Renviron
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Microsoft Office temp/lock files
+~$*.doc*
+~$*.docx
+~$*.xls*
+~$*.xlsx
+~$*.ppt*
+~$*.pptx
+~WRL*.tmp
+
+# Do not upload:
+Paper/
+Dataframes/Land use mapping/C3S-LC-L4-LCCS-Map-300m-P1Y-2022-v2.1.1.nc
+Dataframes/weathercsvs/
+.Rproj.user
+.quarto
