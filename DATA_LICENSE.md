@@ -6,7 +6,7 @@ Unless otherwise stated below, the original datasets included in this repository
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
-You are free to share and adapt the material for any purpose (including commercially), as long as you provide appropriate attribution: doi.org/10.5281/zenodo.18121701
+You are free to share and adapt the material for any purpose (including commercially), as long as you provide appropriate attribution: https://doi.org/10.5281/zenodo.18121701
 
 ## Third-party datasets and derivatives (not covered by CC BY 4.0)
 
