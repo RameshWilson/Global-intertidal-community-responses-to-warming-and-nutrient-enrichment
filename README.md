@@ -75,7 +75,8 @@ Weather covariates used in the manuscript were derived from **Visual Crossing** 
 
 ## How to cite
 If you use this repository, please cite:
-- **[TBC]** Manuscript citation + DOI (to be added)
+- **Manuscript:** citation + DOI (to be added)
+- **Data and code:** hosted by Zenodo: doi.org/10.5281/zenodo.18121701
 
 ## Licence
 - Code licence: see `LICENSE` (MIT).
