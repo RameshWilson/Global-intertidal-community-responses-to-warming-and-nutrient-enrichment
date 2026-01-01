@@ -6,7 +6,7 @@ Unless otherwise stated below, the original datasets included in this repository
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
-You are free to share and adapt the material for any purpose (including commercially), as long as you provide appropriate attribution: https://doi.org/10.5281/zenodo.18121701
+You are free to share and adapt the material for any purpose (including commercially), as long as you provide appropriate attribution.
 
 ## Third-party datasets and derivatives (not covered by CC BY 4.0)
 
@@ -32,4 +32,4 @@ The script `Additional analyses/Weather data processing_Additional.R` is include
 Visual Crossing terms: https://www.visualcrossing.com/weather-services-terms/
 
 ## Attribution guidance
-If you reuse repository data covered by CC BY 4.0, please cite the associated manuscript (DOI to be added) and this repository. For third-party governed inputs (Copernicus/ESA land cover; Visual Crossing), consult and comply with the linked terms in addition to citing the upstream sources.
+If you reuse repository data covered by CC BY 4.0, please cite the associated manuscript (DOI to be added) and this repository (https://doi.org/10.5281/zenodo.18121701). For third-party governed inputs (Copernicus/ESA land cover; Visual Crossing), consult and comply with the linked terms in addition to citing the upstream sources.
